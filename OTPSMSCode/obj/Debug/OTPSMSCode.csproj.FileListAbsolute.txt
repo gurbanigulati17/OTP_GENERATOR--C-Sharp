@@ -1,0 +1,10 @@
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.csprojAssemblyReference.cache
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.Form1.resources
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.Properties.Resources.resources
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.csproj.GenerateResource.cache
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.csproj.CoreCompileInputs.cache
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\bin\Debug\OTPSMSCode.exe.config
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\bin\Debug\OTPSMSCode.exe
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\bin\Debug\OTPSMSCode.pdb
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.exe
+C:\Users\geetg\source\repos\OTPSMSCode\OTPSMSCode\obj\Debug\OTPSMSCode.pdb
